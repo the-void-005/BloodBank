@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\DIvyam Jagwani\AndroidStudioProjects\BloodBank\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="bccac3ad9606d07e56dff062947cb696c1e62883">
+        <dex dex="C:\Users\DIvyam Jagwani\AndroidStudioProjects\BloodBank\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a482da875dab0a31dd7f8af10acdcf612a109e06\classes.dex" />
+    </item>
+
+</items>
